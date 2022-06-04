@@ -1,0 +1,15 @@
+/Users/mh/workspaceCSharp/udemy-csharp-masterclass/Datatypes/bin/Debug/net6.0/Datatypes
+/Users/mh/workspaceCSharp/udemy-csharp-masterclass/Datatypes/bin/Debug/net6.0/Datatypes.deps.json
+/Users/mh/workspaceCSharp/udemy-csharp-masterclass/Datatypes/bin/Debug/net6.0/Datatypes.runtimeconfig.json
+/Users/mh/workspaceCSharp/udemy-csharp-masterclass/Datatypes/bin/Debug/net6.0/Datatypes.dll
+/Users/mh/workspaceCSharp/udemy-csharp-masterclass/Datatypes/bin/Debug/net6.0/Datatypes.pdb
+/Users/mh/workspaceCSharp/udemy-csharp-masterclass/Datatypes/obj/Debug/net6.0/Datatypes.csproj.AssemblyReference.cache
+/Users/mh/workspaceCSharp/udemy-csharp-masterclass/Datatypes/obj/Debug/net6.0/Datatypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mh/workspaceCSharp/udemy-csharp-masterclass/Datatypes/obj/Debug/net6.0/Datatypes.AssemblyInfoInputs.cache
+/Users/mh/workspaceCSharp/udemy-csharp-masterclass/Datatypes/obj/Debug/net6.0/Datatypes.AssemblyInfo.cs
+/Users/mh/workspaceCSharp/udemy-csharp-masterclass/Datatypes/obj/Debug/net6.0/Datatypes.csproj.CoreCompileInputs.cache
+/Users/mh/workspaceCSharp/udemy-csharp-masterclass/Datatypes/obj/Debug/net6.0/Datatypes.dll
+/Users/mh/workspaceCSharp/udemy-csharp-masterclass/Datatypes/obj/Debug/net6.0/refint/Datatypes.dll
+/Users/mh/workspaceCSharp/udemy-csharp-masterclass/Datatypes/obj/Debug/net6.0/Datatypes.pdb
+/Users/mh/workspaceCSharp/udemy-csharp-masterclass/Datatypes/obj/Debug/net6.0/Datatypes.genruntimeconfig.cache
+/Users/mh/workspaceCSharp/udemy-csharp-masterclass/Datatypes/obj/Debug/net6.0/ref/Datatypes.dll

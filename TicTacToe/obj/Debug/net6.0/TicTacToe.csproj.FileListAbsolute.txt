@@ -1,0 +1,15 @@
+/Users/mh/workspaceCSharp/udemy-csharp-masterclass/TicTacToe/bin/Debug/net6.0/TicTacToe
+/Users/mh/workspaceCSharp/udemy-csharp-masterclass/TicTacToe/bin/Debug/net6.0/TicTacToe.deps.json
+/Users/mh/workspaceCSharp/udemy-csharp-masterclass/TicTacToe/bin/Debug/net6.0/TicTacToe.runtimeconfig.json
+/Users/mh/workspaceCSharp/udemy-csharp-masterclass/TicTacToe/bin/Debug/net6.0/TicTacToe.dll
+/Users/mh/workspaceCSharp/udemy-csharp-masterclass/TicTacToe/bin/Debug/net6.0/TicTacToe.pdb
+/Users/mh/workspaceCSharp/udemy-csharp-masterclass/TicTacToe/obj/Debug/net6.0/TicTacToe.csproj.AssemblyReference.cache
+/Users/mh/workspaceCSharp/udemy-csharp-masterclass/TicTacToe/obj/Debug/net6.0/TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mh/workspaceCSharp/udemy-csharp-masterclass/TicTacToe/obj/Debug/net6.0/TicTacToe.AssemblyInfoInputs.cache
+/Users/mh/workspaceCSharp/udemy-csharp-masterclass/TicTacToe/obj/Debug/net6.0/TicTacToe.AssemblyInfo.cs
+/Users/mh/workspaceCSharp/udemy-csharp-masterclass/TicTacToe/obj/Debug/net6.0/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/mh/workspaceCSharp/udemy-csharp-masterclass/TicTacToe/obj/Debug/net6.0/TicTacToe.dll
+/Users/mh/workspaceCSharp/udemy-csharp-masterclass/TicTacToe/obj/Debug/net6.0/refint/TicTacToe.dll
+/Users/mh/workspaceCSharp/udemy-csharp-masterclass/TicTacToe/obj/Debug/net6.0/TicTacToe.pdb
+/Users/mh/workspaceCSharp/udemy-csharp-masterclass/TicTacToe/obj/Debug/net6.0/TicTacToe.genruntimeconfig.cache
+/Users/mh/workspaceCSharp/udemy-csharp-masterclass/TicTacToe/obj/Debug/net6.0/ref/TicTacToe.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "usFUAzCtqrUev8oi6+OVV0hEOvjI6h31gtdoazhJwa4CWWhEVb4q6iBS0wGIgb1vzrAVeAsFV/qHZ6P8yZvVjA==",
+  "success": true,
+  "projectFilePath": "/Users/mh/workspaceCSharp/udemy-csharp-masterclass/Datatypes/Datatypes.csproj",
+  "expectedPackageFiles": [
+    "/Users/mh/.nuget/packages/nlog/5.0.0/nlog.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
